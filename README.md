@@ -1,0 +1,1 @@
+This text will tell you how to get start with git and remote repository.
